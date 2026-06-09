@@ -17,18 +17,45 @@
 ## 👨‍💻 About Me
 
 ```python
+# Welcome to my profile 👋
 class TarikJamil:
     name       = "Tarik Jamil"
     location   = "Bangladesh 🇧🇩"
     email      = "xohantarik12@gmail.com"
-    learning   = ["C", "C++", "Python"]
-    working_on = "Software Development Projects"
-    ask_me     = "Python-related questions"
-    fun_fact   = "I'm also a gamer 🎮"
+    learning   = ["Python", "C++", "Django", "React", "ML"]
+    passion    = "Building things that matter"
+    fun_fact   = "I am also a gamer 🎮"
+
+    def say_hello(self):
+        return "Let's build something amazing together! 🚀"
+```
+
+<div align="center">
+
+| 🎯 Focus | 🌱 Learning | 🎮 Fun Fact | 🌍 Based In |
+|:---:|:---:|:---:|:---:|
+| Software Engineering | 4+ Languages | Gamer | Bangladesh |
+
+</div>
+
+---
+
+### 🔴 Current Status
+
+```
+🟢 Building a Software Development Project          → Active now
+🟣 Deep-diving into Django + React full-stack       → This month  
+🔵 Solving problems on LeetCode daily               → Ongoing
+🟠 Exploring Machine Learning fundamentals          → Recently started
 ```
 
 ---
 
+### 💬 Dev Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
 ## 🚀 Tech Stack
 
 <div align="center">
