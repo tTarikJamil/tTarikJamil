@@ -1,33 +1,92 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Tarik Jamil</h1>
-<h3 align="center">A passionate software engineering from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ttarikjamil&label=Profile%20views&color=0e75b6&style=flat" alt="ttarikjamil" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Animated header banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tarik%20Jamil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Bangladesh%20🇧🇩&descAlignY=55&descAlign=50)
 
-- 🔭 I’m currently working on **Software Development Project.**
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Tarik+Jamil!;Passionate+Software+Engineer;Python+%7C+C+%7C+C%2B%2B+%7C+MySQL;Always+Learning+%F0%9F%8C%B1;Open+to+Collaborate!)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **C,C++,Python etc.**
+<!-- Profile views & followers badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=ttarikjamil&label=Profile+Views&color=7f77dd&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/ttarikjamil?label=Followers&style=for-the-badge&color=1d9e75)](https://github.com/ttarikjamil)
 
-- 💬 Ask me about **Python related question**
+</div>
 
-- 📫 How to reach me **xohantarik12@gmail.com**
+---
 
-- ⚡ Fun fact **I am also a gamer**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tarikjamil12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xohan-tarik" height="30" width="40" /></a>
-<a href="https://fb.com/xohan bin tarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xohan bin tarik" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/_Tarik_Jamil_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarik_jamil" height="30" width="40" /></a>
-</p>
+```python
+class TarikJamil:
+    name       = "Tarik Jamil"
+    location   = "Bangladesh 🇧🇩"
+    email      = "xohantarik12@gmail.com"
+    learning   = ["C", "C++", "Python"]
+    working_on = "Software Development Projects"
+    ask_me     = "Python-related questions"
+    fun_fact   = "I'm also a gamer 🎮"
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 Tech Stack
 
-<p><img align="left" width="400"src="https://github-readme-stats.vercel.app/api?username=ttarikjamil&show_icons=true&locale=en" alt="ttarikjamil" /></p>
+<div align="center">
 
-<p><img align="right" width="400"src="https://github-readme-streak-stats.herokuapp.com/?user=ttarikjamil&" alt="ttarikjamil" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ttarikjamil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttarikjamil&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttarikjamil&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ttarikjamil&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ttarikjamil&theme=tokyonight&column=7&margin-w=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarikjamil12/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/xohan%20bin%20tarik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Tarik_Jamil_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xohantarik12@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
