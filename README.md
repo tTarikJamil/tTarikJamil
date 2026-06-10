@@ -14,21 +14,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-```python
-# Welcome to my profile 👋
-class TarikJamil:
-    name       = "Tarik Jamil"
-    location   = "Bangladesh 🇧🇩"
-    email      = "xohantarik12@gmail.com"
-    learning   = ["Python", "C++", "Django", "React", "ML"]
-    passion    = "Building things that matter"
-    fun_fact   = "I am also a gamer 🎮"
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-    def say_hello(self):
-        return "Let's build something amazing together! 🚀"
-```
+👋 &nbsp;Hi! I'm **Tarik Jamil**, a passionate Software Engineer from **Bangladesh 🇧🇩**
+
+🔭 &nbsp;Currently working on a **Software Development Project**
+
+🌱 &nbsp;Learning **C, C++, Python, Django, React & Machine Learning**
+
+💬 &nbsp;Ask me about **Python** — always happy to help!
+
+📫 &nbsp;Reach me at **xohantarik12@gmail.com**
+
+⚡ &nbsp;Fun fact — I'm also a **gamer 🎮** — code by day, game by night!
 
 <div align="center">
 
